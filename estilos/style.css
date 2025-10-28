@@ -53,3 +53,12 @@ section#redes-socias img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
     transition: transform .3s, border .2s;
 }
+img#yt{
+    display: none;
+}
+img#tt{
+    display: none;
+}
+img#fb{
+    display: none;
+}
